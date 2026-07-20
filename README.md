@@ -4,7 +4,7 @@ Senior Full Stack Web Developer with a strong background in building scalable we
 
 ## 💼 Current Position
 
-**Senior Web Developer** at **[Limonist Meta Teknoloji](https://limonistmeta.co.uk)**
+**Senior Web Developer** at **[Limonist Meta](https://limonistmeta.co.uk)**
 
 At Limonist Meta Teknoloji, I develop enterprise applications, AI-powered solutions, RESTful APIs, e-commerce platforms, CRM systems, and scalable backend services. I also focus on performance optimization, system architecture, and third-party integrations.
 
