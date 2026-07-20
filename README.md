@@ -1,16 +1,82 @@
-## Hi there 👋
+# Hi there 👋 I'm Yakup Güvenç
 
-<!--
-**yguvenc27/yguvenc27** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+Senior Full Stack Web Developer with a strong background in building scalable web applications, enterprise software, and high-performance backend systems. I enjoy designing clean architectures, solving complex technical challenges, and creating software that delivers real business value.
 
-Here are some ideas to get you started:
+## 💼 Current Position
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+**Senior Web Developer** at **[Limonist Meta Teknoloji](https://limonistmeta.co.uk)**
+
+At Limonist Meta Teknoloji, I develop enterprise applications, AI-powered solutions, RESTful APIs, e-commerce platforms, CRM systems, and scalable backend services. I also focus on performance optimization, system architecture, and third-party integrations.
+
+## 🚀 Tech Stack
+
+### Backend
+
+* PHP
+* Laravel
+* Node.js
+* REST API Development
+* WebSocket
+* Redis
+* Queue Systems
+
+### Frontend
+
+* JavaScript
+* Vue.js
+* jQuery
+* Inertia.js
+* HTML5
+* CSS3
+* Bootstrap
+* Tailwind CSS
+
+### Database
+
+* MySQL
+* MariaDB
+
+### DevOps & Infrastructure
+
+* Linux
+* Docker
+* Nginx
+* Apache
+* Git
+* GitHub
+* Plesk
+* Cloudflare
+
+### Other Technologies
+
+* Artificial Intelligence Integrations
+* Payment Gateway Integrations
+* Third-party APIs
+* Performance Optimization
+* SEO-Oriented Development
+* System Architecture
+
+## 🌱 Currently Learning
+
+* AI Agents
+* Large Language Models (LLMs)
+* Cloud-Native Architectures
+* Microservices
+* Distributed Systems
+
+## 🎯 Areas of Interest
+
+* Software Architecture
+* Backend Development
+* Artificial Intelligence
+* Web Performance
+* Cloud Infrastructure
+* Open Source Technologies
+
+## 📫 Connect
+
+* 🌐 Website: https://limonistmeta.co.uk
+
+---
+
+> *"Great software is not only built to solve today's problems but designed to adapt to tomorrow's challenges."*
