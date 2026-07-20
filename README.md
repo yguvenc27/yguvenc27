@@ -4,7 +4,7 @@ Senior Full Stack Web Developer with a strong background in building scalable we
 
 ## 💼 Current Position
 
-**Senior Web Developer** at **[Limonist Meta](https://limonistmeta.co.uk)**
+**Senior Web Developer** at **[Limonist Meta](https://limonist.com)**
 
 **I am currently building**  **[Optium](https://optium.com.tr)**
 
