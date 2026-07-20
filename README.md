@@ -6,7 +6,7 @@ Senior Full Stack Web Developer with a strong background in building scalable we
 
 **Senior Web Developer** at **[Limonist Meta](https://limonistmeta.co.uk)**
 
-**I am currently building Optium**  **[Optium](https://optium.com.tr)**
+**I am currently building **  **[Optium](https://optium.com.tr)**
 
 At Limonist Meta Teknoloji, I develop enterprise applications, AI-powered solutions, RESTful APIs, e-commerce platforms, CRM systems, and scalable backend services. I also focus on performance optimization, system architecture, and third-party integrations.
 
