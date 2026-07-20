@@ -77,7 +77,7 @@ At Limonist Meta Teknoloji, I develop enterprise applications, AI-powered soluti
 
 ## 📫 Connect
 
-* 🌐 Website: https://limonistmeta.co.uk
+* 🌐 Website: https://limonist.com
 
 ---
 
